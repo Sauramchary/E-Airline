@@ -1,0 +1,10 @@
+.navbar{
+    background-color: rgb(235, 228, 228);
+}
+.navbar-light .navbar-nav .navbar-item{
+    color:white;
+    
+}
+a:hover{
+    text-decoration: underline;
+}

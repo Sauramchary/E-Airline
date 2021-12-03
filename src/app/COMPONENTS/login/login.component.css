@@ -1,0 +1,20 @@
+.login img{
+    width:100%;
+    object-fit: cover;
+    object-position: center;
+}
+ .login .form-content{
+     position: absolute;
+     top:20%;
+     margin-left: 8%;
+ }
+ .content-c h5{
+     text-align: center;
+     text-decoration: underline ;
+     font-size: 15px;
+
+ }
+ .c-r-btn{
+     text-align: center;
+     
+ }

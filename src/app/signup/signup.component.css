@@ -1,0 +1,18 @@
+.signup img{
+    width:100%;
+    object-position: center;
+    
+}
+.signup .form-content{
+    position: absolute;
+    top:20%;
+    margin-left: 35%;
+}
+.form-content{
+    width:32%;
+    display: flex;
+
+}
+.form-group{
+    width: 400px;
+}
